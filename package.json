@@ -1,0 +1,15 @@
+{
+  "name": "pruebajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "azau.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
